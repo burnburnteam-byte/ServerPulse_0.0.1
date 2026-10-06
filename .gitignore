@@ -1,0 +1,7 @@
+.env
+logs.db
+aternos_profile/
+aternos_state.b64.txt
+__pycache__/
+*.pyc
+.venv/
